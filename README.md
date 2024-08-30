@@ -10,7 +10,7 @@
 
 ## 1. Introduction
 
-This repository contains the experiments conducted for the thesis titled "Statistics-Driven Texture Sound Synthesis Using Differentiable Digital Signal Processing-Based Architectures," authored by Esteban Gutiérrez and advised by Lonce Wyse. The experiments are based on the GitHub repositories resulting from this thesis: [ddsp_textures](https://github.com/cordutie/ddsp_textures) and [VAE_SubEnv](https://github.com/cordutie/VAE_SubEnv).
+This repository contains the experiments conducted for the thesis titled "Statistics-Driven Texture Sound Synthesis Using Differentiable Digital Signal Processing-Based Architectures" authored by Esteban Gutiérrez and advised by Lonce Wyse at the [Universitat Pompeu Fabra](https://upf.edu). The experiments are based on the GitHub repositories resulting from this thesis: [ddsp_textures](https://github.com/cordutie/ddsp_textures) and [VAE_SubEnv](https://github.com/cordutie/VAE_SubEnv).
 
 ![DDSP architecture](experiments/data/images/DDSP.png)
 <div align="center">Figure 1. DDSP architecture modified to synthesize texture sounds.</div><br>
